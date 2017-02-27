@@ -1,4 +1,5 @@
 # Truthy
+After the recent increase of "fake new", my team and I decided to create an application that offer tools to user to determine if the article they are reading is truth or false. These tools include machine learning, website filter from past publications, article sentiments, keywords and quotes.
 Know about what you read.
 
 # Team Members
@@ -14,4 +15,5 @@ Know about what you read.
 
 # How to use
 If running locally, first install locally and then run `bundle exec rails s`  
-When App is deployed, you can visit:
+When App is deployed, you can visit the hosting route.
+Enter article URL to the search bar. 
