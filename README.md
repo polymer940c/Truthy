@@ -1,6 +1,6 @@
 # Truthy
-After the recent increase of "fake new", my team and I decided to create an application that offer tools to user to determine if the article they are reading is truth or false. These tools include machine learning, website filter from past publications, article sentiments, keywords and quotes.
 Know about what you read.
+After the recent increase of "fake new", my team and I decided to create an application that offer tools to user to determine if the article they are reading is truth or false. These tools include machine learning, website filter from past publications, article sentiments, keywords and quotes.
 
 # Team Members
 * John Talio - @johntalio  
